@@ -1,0 +1,10 @@
+86 54299123 1651017305699312335 6bcb5d95dc0529a54881dc3516f3c0c4 /Users/tamal/go/src/github.com/tamalsaha/learn-wasm/zig/math.zig
+1575 54299140 1651017313447525317 e0440403216164f5c3a4e57d1dd7440a /Users/tamal/go/src/github.com/tamalsaha/learn-wasm/zig/zig-cache/o/7c00edd68cba51f3dfe919a72fc8f9b1/builtin.zig
+5391 37073776 1644868999000000000 99c935b1fadc1095742d1049c16b1f73 /opt/homebrew/Cellar/zig/0.9.1/lib/zig/std/std.zig
+86 54299123 1651017305699312335 6bcb5d95dc0529a54881dc3516f3c0c4 /Users/tamal/go/src/github.com/tamalsaha/learn-wasm/zig/math.zig
+5391 37073776 1644868999000000000 99c935b1fadc1095742d1049c16b1f73 /opt/homebrew/Cellar/zig/0.9.1/lib/zig/std/std.zig
+26206 37073791 1644868999000000000 dbc4cb0419e16d4a31e572375da82b3e /opt/homebrew/Cellar/zig/0.9.1/lib/zig/std/builtin.zig
+21855 37074058 1644868999000000000 afc30f6da0dcf13f4d3062af48b3ac43 /opt/homebrew/Cellar/zig/0.9.1/lib/zig/std/start.zig
+61008 37073618 1644868999000000000 5b49cc22b6b033715b219b2e4c6df7ac /opt/homebrew/Cellar/zig/0.9.1/lib/zig/std/target.zig
+57659 37074252 1644868999000000000 db42026211aa4121bafe18a7268b343c /opt/homebrew/Cellar/zig/0.9.1/lib/zig/std/math.zig
+33618 37073617 1644868999000000000 46535ad7f6a05d9584884e7b8ee186ce /opt/homebrew/Cellar/zig/0.9.1/lib/zig/std/meta.zig
