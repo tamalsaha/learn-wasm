@@ -1,1 +1,1 @@
-# lean-wasm
+# learn-wasm
